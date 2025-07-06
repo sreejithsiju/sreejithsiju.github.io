@@ -23,6 +23,6 @@ nav_order: 6
  
   Multivariable Calculus (Feb – May 2021)
  
-  Linear Algebra and One- variable Calculus (Nov 2021 – Feb 2022
+  Linear Algebra and One- variable Calculus (Nov 2021 – Feb 2022)
 
   
