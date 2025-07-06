@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Office no. 361 Dunn Hall r</p>
+    <p>Office. 361 Dunn Hall </p>
     <p>3725 Norriswood Ave</p>
     <p>Memphis, TN 38152</p>
 
