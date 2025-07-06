@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: <a href='https://www.memphis.edu/msci/'>University of Memphis</a>. sreejithsiju5@gmail.com.
 
