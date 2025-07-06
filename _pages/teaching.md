@@ -3,7 +3,7 @@ layout: page
 permalink: /teaching/
 title: Teaching
 description: 
-nav_order: 6
+nav_order: 3
 ---
  University of Memphis
 
