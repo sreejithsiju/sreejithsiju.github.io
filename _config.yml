@@ -641,6 +641,3 @@ jsonresume:
   - languages
   - interests
   - references
-exclude:
-  - _pages/publications.md
-  - _pages/projects.md
