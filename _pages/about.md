@@ -29,6 +29,6 @@ latest_posts:
 
 I am currently a Postdoctoral Fellow in the <a href='https://www.memphis.edu/msci/'>Department of Mathematics at the University of Memphis</a>. Prior to this, I held  NBHM- Postdoctoral Fellowship at the  <a href='https://www.isibang.ac.in/~statmath/'>Indian Statistical Institute (ISI) Bangalore</a>, where I was mentored by <a href='https://www.isibang.ac.in/~jay/'>Prof. Jaydeb Sarkar</a>.
 
-I completed my Ph.D. in Mathematics from the <a href='https://iitpkd.ac.in/mathematics'>Indian Institute of Technology (IIT) Palakkad<\a> under the supervision of <a href='https://iitpkd.ac.in/people/crjayan'>Dr. C. R. Jayanarayanan<\a>. My doctoral research focused on Approximation Problems in the Space of Compact Operators, my thesis can be found <a href=''>here<\a>. 
+I completed my Ph.D. in Mathematics from the <a href='https://iitpkd.ac.in/mathematics'>Indian Institute of Technology (IIT) Palakkad</a> under the supervision of <a href='https://iitpkd.ac.in/people/crjayan'>Dr. C. R. Jayanarayanan</a>. My doctoral research focused on Approximation Problems in the Space of Compact Operators, my thesis can be found <a href=''>here</a>. 
 
 My current research interests lie in Geometry of Banach spaces, M-ideals, function spaces and related areas in functional analysis.
