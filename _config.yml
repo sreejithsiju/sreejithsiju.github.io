@@ -644,6 +644,4 @@ jsonresume:
 exclude:
   - _pages/publications.md
   - _pages/projects.md
-  - _posts/
   - _projects/?_project.md
-  - assets/jupyter/blog.ipynb
