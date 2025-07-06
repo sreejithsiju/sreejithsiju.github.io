@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='#'>University of Memphis</a>. sreejithsiju5@gmail.com.
 
 profile:
   align: right
