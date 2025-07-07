@@ -2,9 +2,10 @@
 layout: page
 permalink: /teaching/
 title: Teaching
-description: 
-nav_order: 3
+description: Courses 
+nav_order: 4
 ---
+
  University of Memphis
 
   College algebra - Fall 2024 and 2025 
@@ -25,4 +26,3 @@ nav_order: 3
  
   Linear Algebra and One- variable Calculus (Nov 2021 – Feb 2022)
 
-  
