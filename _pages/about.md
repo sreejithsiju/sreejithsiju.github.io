@@ -7,7 +7,7 @@ subtitle: <a href='https://www.memphis.edu/msci/'>University of Memphis</a>. sre
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   more_info: >
     <p>Office. 361 Dunn Hall </p>
     <p>3725 Norriswood Ave</p>
