@@ -7,7 +7,7 @@ description:
 nav: true
 nav_order: 2
 ---
-
+<h2> Publications</h2>
 Preprint
 
 1. Ball covering property of M-embedded spaces (Lixin Cheng, Wuyi He, Zhizheng Yu, Bentuo
