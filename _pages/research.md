@@ -6,8 +6,8 @@ description: Publications ans talks
 nav: true
 nav_order: 2
 ---
-#Publication
-#Preprint
+###Publication
+####Preprint
 1. Ball covering property of M-embedded spaces (Lixin Cheng, Wuyi He, Zhizheng Yu, Bentuo
 Zheng), 2025, Communicated.
 2. Ball covering of operators and Calkin algebra over certain Banach spaces (with Daniel Puglisi
@@ -15,7 +15,7 @@ and Bentuo Zheng), communicated.
 3. M -ideals in the algebra of bounded analytic
 function( with Deepak K. D and Jaydeb Sarkar ), https://arxiv.org/abs/2403.16947, 2023.
 
-#Accepted
+#####Accepted
 
 4. Differentiability of operator norm on ℓp-spaces, In: Canadian Journal of
 Mathematics (2024), URL https://doi.org/10.4153/S0008414X24001135.
