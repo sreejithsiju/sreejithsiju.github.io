@@ -1,8 +1,7 @@
 ---
 layout: page
-permalink: /research/
-title: Research
-subtitle:
+permalink: /cv/
+title: cv
 description:
 nav: true
 nav_order: 4
