@@ -6,5 +6,6 @@ description:
 nav: true
 nav_order: 4
 ---
-    <iframe src="assets/pdf/CV_sreejith-3.pdf" width="100%" height="600px"></iframe>
+<embed src="assets/pdf/CV_sreejith-3.pdf" type="application/pdf" width="100%" height="600px" />
+    
 
