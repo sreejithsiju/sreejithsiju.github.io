@@ -7,7 +7,7 @@ description:
 nav: true
 nav_order: 2
 ---
-<h3 style="color: inherit;"> Publications</h3>
+<h3 style="color: inherit; text-align: center;"> Publications</h3>
 Preprint
 
 1. Ball covering property of M-embedded spaces (Lixin Cheng, Wuyi He, Zhizheng Yu, Bentuo
@@ -27,7 +27,7 @@ operators (with C. R. Jayanarayanan). In: Studia Mathematica (2022), DOI:10.4064
 In: Proc. Amer. Math. Soc. 149.8 (2021), PP. 3395 − 3405. ISSN: 0002-9939. DOI-
 10.1090/proc/15446. URL: https://doi.org/10.1090/proc/15446
 
-<h3 style="color: inherit;"> Talks </h3>
+<h3 style="color: inherit; "text-align: center;"> Talks </h3>
 
 1. ’Differentiability of operator norm, SUMIRFAS, July 28- Aug 3, 2025, Texas AM University’,
 Texas, USA,
