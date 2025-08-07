@@ -33,12 +33,12 @@ In: Proc. Amer. Math. Soc. 149.8 (2021), PP. 3395 − 3405. ISSN: 0002-9939. DOI
 Texas, USA,
 2. ’M -ideals in bounded analytic functions’, Kerala School of Mathematics, July 2023, Kozhikode,
 Kerala, India.
-3. ”Strong Ball Proximinality of the Space of Compact Operators”, IWOTA, Sept 06, 2022 - Sept
+3. 'Strong Ball Proximinality of the Space of Compact Operators', IWOTA, Sept 06, 2022 - Sept
 10, 2022, University of Agriculture Krakow, Poland.
-4. ”Ball Proximinality of Space of Compact Operators”, Functional Analysis in Lille, June 27,
+4. 'Ball Proximinality of Space of Compact Operators', Functional Analysis in Lille, June 27,
 2022 - July 1, 2022, University of Lille, France.
-5. ”Approximation Theoretic Properties of Space of Compact Operators”, Research Seminar,
+5. 'Approximation Theoretic Properties of Space of Compact Operators', Research Seminar,
 June 24, 2022, IIT Palakkad, India.
-6. ”Ball Proximinality of M -embedded Spaces”, Workshop on Geometry of Banach Spaces and
+6. 'Ball Proximinality of M -embedded Spaces', Workshop on Geometry of Banach Spaces and
 its Applications, Dec 31, 2021 - Jan 02, 2022, IIIT Allahabad, India.
 
