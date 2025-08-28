@@ -14,7 +14,7 @@ MATH 1910 Calculus 1 - Spring 2025
 
 MATH 1710 College algebra - Fall 2025
 
-<h5 style="color: #2792A1;">Kerala School of Maathematics</h5>
+<h5 style="color: #2792A1;">Kerala School of Mathematics</h5>
 
 KSM3E01 Functional Analysis for Integrated PhD Students - Sep - Dec 2023
 
