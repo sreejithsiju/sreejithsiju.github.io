@@ -32,3 +32,14 @@ I am currently a Postdoctoral Fellow in the <a href='https://www.memphis.edu/msc
 I completed my Ph.D. in Mathematics from the <a href='https://iitpkd.ac.in/mathematics'>Indian Institute of Technology (IIT) Palakkad</a> under the supervision of <a href='https://iitpkd.ac.in/people/crjayan'>Dr. C. R. Jayanarayanan</a>. My doctoral research focused on Approximation Problems in the Space of Compact Operators, my thesis can be found <a href=''>here</a>. 
 
 My current research interests lie in Geometry of Banach spaces, M-ideals, function spaces and related areas in functional analysis.
+
+
+
+
+
+
+
+
+
+
+<a href='https://scholar.google.com/citations?user=7J3NHKcAAAAJ&hl=en'>Google Scholar</a> <a href='https://mathscinet.ams.org/mathscinet/author?authorId=1441113'>Mathscinet</a>
