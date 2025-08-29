@@ -33,13 +33,3 @@ I completed my Ph.D. in Mathematics from the <a href='https://iitpkd.ac.in/mathe
 
 My current research interests lie in Geometry of Banach spaces, M-ideals, function spaces and related areas in functional analysis.
 
-
-
-
-
-
-
-
-
-
-<a href='https://scholar.google.com/citations?user=7J3NHKcAAAAJ&hl=en'>Google Scholar</a> <a href='https://mathscinet.ams.org/mathscinet/author?authorId=1441113'>Mathscinet</a>
