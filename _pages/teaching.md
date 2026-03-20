@@ -10,9 +10,13 @@ nav_order: 3
 
 MATH 1710 College algebra - Fall 2024
 
-MATH 1910 Calculus 1 - Spring 2025
+MATH 1910 Calculus I - Spring 2025
 
 MATH 1710 College algebra - Fall 2025
+
+MATH 2110 Calculus III - Spring 2026
+
+
 
 <h5 style="color: #2792A1;">Kerala School of Mathematics</h5>
 
