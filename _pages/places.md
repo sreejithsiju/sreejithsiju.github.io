@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /research/
-title: Research
+permalink: /places/
+title: Places
 subtitle:
 description:
 nav: true
